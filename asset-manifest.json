@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/https//:Rikii30.github.io/project3/static/css/main.762e633c.css",
+    "main.js": "/https//:Rikii30.github.io/project3/static/js/main.19b0e94d.js",
+    "static/media/hawaii.png": "/https//:Rikii30.github.io/project3/static/media/hawaii.da29540e393918574baf.png",
+    "static/media/music.png": "/https//:Rikii30.github.io/project3/static/media/music.81f5908ca31cc30b1882.png",
+    "static/media/cv2.jpg": "/https//:Rikii30.github.io/project3/static/media/cv2.07493edba596ef642bf5.jpg",
+    "static/media/ml.png": "/https//:Rikii30.github.io/project3/static/media/ml.6ce3a16a2d3bbdc10236.png",
+    "static/media/attendance.png": "/https//:Rikii30.github.io/project3/static/media/attendance.84ec03030ad4c6f2b27f.png",
+    "static/media/Mdb.png": "/https//:Rikii30.github.io/project3/static/media/Mdb.2c6c23aa8dc3b3ea83e8.png",
+    "static/media/Java.jpg": "/https//:Rikii30.github.io/project3/static/media/Java.bc7a3325b6ee01ddcab8.jpg",
+    "static/media/j.png": "/https//:Rikii30.github.io/project3/static/media/j.de83bc319dc259379774.png",
+    "static/media/about.jpg": "/https//:Rikii30.github.io/project3/static/media/about.b94afb9655e8766e9764.jpg",
+    "static/media/jupyter.jpg": "/https//:Rikii30.github.io/project3/static/media/jupyter.7661ced02691106e008d.jpg",
+    "static/media/django.jpg": "/https//:Rikii30.github.io/project3/static/media/django.fdf8ea04f5a49cea1c89.jpg",
+    "static/media/portfolio.svg": "/https//:Rikii30.github.io/project3/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/https//:Rikii30.github.io/project3/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/https//:Rikii30.github.io/project3/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/about.svg": "/https//:Rikii30.github.io/project3/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/https//:Rikii30.github.io/project3/index.html",
+    "main.762e633c.css.map": "/https//:Rikii30.github.io/project3/static/css/main.762e633c.css.map",
+    "main.19b0e94d.js.map": "/https//:Rikii30.github.io/project3/static/js/main.19b0e94d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.762e633c.css",
+    "static/js/main.19b0e94d.js"
+  ]
+}
